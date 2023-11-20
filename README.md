@@ -14,7 +14,7 @@ Optional task: write documentation for your code in JavaDoc format, in English.
 Example:
 
 Given file A:
-0
+0\n
 1
 4
 7
