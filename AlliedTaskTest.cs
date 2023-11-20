@@ -39,10 +39,10 @@ namespace AlliedTaskAndTest
         public void SequencesCombineTest1()
         {
             // Arrange
-            int[] arrayA = { 1, 3, 4, 7 };
+            int[] arrayA = { 0, 1, 4, 7 };
             int[] arrayB = { 2, 4, 8 };
             int[] arrayC = new int[arrayA.Length + arrayB.Length];
-            int[] expectedResult = { 1, 2, 3, 4, 4, 7, 8 };
+            int[] expectedResult = { 0, 1, 2, 4, 4, 7, 8 };
 
             // Act
             int[] result = TwoSequencesSort.SequencesCombine(arrayA, arrayB, arrayC);
