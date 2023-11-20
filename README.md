@@ -2,7 +2,7 @@
 
 **TwoSequencesSort.cs** file contains class with methods for performing the task.  
 **Program.cs** file just consistently executes these methotds with given files A.txt and B.txt.  
-**AlliedTaskTest.cs** contains few tests for methods from class in TwoSequencesSort.cs. Tests are written in NUnit Framework (which is based on JUnit).
+**AlliedTaskTest.cs** contains few tests for methods of class in TwoSequencesSort.cs. Tests are written in NUnit Framework (which is based on JUnit).
 
 **Here's the original task:**
 
