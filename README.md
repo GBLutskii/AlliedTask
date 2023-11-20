@@ -1,4 +1,9 @@
 # AlliedTask
+
+TwoSequencesSort.cs file contains methods for performing the task.
+Program.cs file just consistently executes these methotds with given files A.txt and B.txt.
+AlliedTaskTest.cs contains few tests for methods from class in TwoSequencesSort.cs. Tests are written in NUnit Framework (which is based on JUnit).
+
 Here's the original task:
 
 There are two text files A and B, each containing a sorted sequence of integer numbers.
@@ -14,7 +19,7 @@ Optional task: write documentation for your code in JavaDoc format, in English.
 Example:
 
 Given file A:
-0\n
+0
 1
 4
 7
