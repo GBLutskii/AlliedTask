@@ -1,10 +1,12 @@
-# AlliedTask
+# AlliedTask project description
 
-TwoSequencesSort.cs file contains methods for performing the task.
-Program.cs file just consistently executes these methotds with given files A.txt and B.txt.
-AlliedTaskTest.cs contains few tests for methods from class in TwoSequencesSort.cs. Tests are written in NUnit Framework (which is based on JUnit).
+**TwoSequencesSort.cs** file contains class with methods for performing the task. 
 
-Here's the original task:
+**Program.cs** file just consistently executes these methotds with given files A.txt and B.txt.
+
+**AlliedTaskTest.cs** contains few tests for methods from class in TwoSequencesSort.cs. Tests are written in NUnit Framework (which is based on JUnit).
+
+**Here's the original task:**
 
 There are two text files A and B, each containing a sorted sequence of integer numbers.
 Write a program which produces text file C containing sorted sequence of all numbers from files A and B.
